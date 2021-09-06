@@ -1,0 +1,6 @@
+{
+  "ropsten": {
+    "infuraURL": "https://ropsten.infura.io/v3/ac546b7822a044578e6f6a3d78964730",
+    "myEthAddr": "0xf880FCd62e27495aA3c9427c4c70A5De66D8d0d2"
+  }
+}
